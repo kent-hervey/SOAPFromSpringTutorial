@@ -1,7 +1,7 @@
-/target/
+target/
 !.mvn/wrapper/maven-wrapper.jar
 .java-version
-/**/target/
+**/target/
 created-site
 
 ### STS ###
