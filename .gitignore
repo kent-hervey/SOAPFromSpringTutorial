@@ -17,7 +17,6 @@ created-site
 .idea
 /.idea
 /.idea/
-.idea/**/*.*
 .idea/**
 .idea/*.*
 *.iws
