@@ -1,8 +1,10 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 .java-version
-**/target/
+**/target/classes
 created-site
+.idea/sonarlint/issuestore/*
+.idea/sonarlint/issuestore/index.pb
 
 ### STS ###
 .apt_generated
