@@ -5,6 +5,7 @@ target/
 created-site
 .idea/sonarlint/issuestore/*
 .idea/sonarlint/issuestore/index.pb
+target/classes/application.properties
 
 ### STS ###
 .apt_generated
